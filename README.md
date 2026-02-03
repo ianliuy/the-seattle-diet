@@ -35,6 +35,7 @@ Stable energy levels, zero decision fatigue, and saving ~$1,200/mo compared to S
 ### Prompt
 <details> 
 
+```
 # The Seattle Diet
 The Seattle Diet - 99th Percentile Health, &lt;$250/Month, &lt;10 Mins/Day Prep
 
@@ -3137,6 +3138,8 @@ To facilitate a better comparison, here is a post from the Chinese lifestyle for
 To facilitate a better comparison, I have also attached a Reddit thread where residents of Los Angeles discuss food-related expenses and what they consume on a daily basis.
 
 OK, after many rounds of conversation with an AI, I finally asked it to summarize my dietary system. The text above is the summary of my diet provided by that AI. Please evaluate the healthiness of this dietary system and estimate its percentile ranking within the U.S. population. Please answer in English.
+
+```
 
 </details>
 
