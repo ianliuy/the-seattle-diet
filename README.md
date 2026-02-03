@@ -13,14 +13,14 @@ I'm a ~30M software engineer living in Seattle. Like many of you, I'm busy, kind
 
 **The Stack:**
 1.  **Carb Base:** 1:1 ratio of Koshihikari Rice + Steel Cut Oats. (Dual-phase glucose release for sustained deep work).
-2.  **Protein Rotation:** Liquid Eggs (steamed) / Roasted Chicken Thighs / Wild Sardines. (Full amino profile + Omega-3s).
+2.  **Protein Rotation:** Eggs (steamed) / Roasted Chicken Thighs / Wild Sardines. (Full amino profile + Omega-3s).
 3.  **Micros:** IQF (Flash-frozen) Broccoli, Spinach, and Triple Berry blend. (Nutrient density > "Fresh" grocery store produce).
 4.  **Lipid Layer:** Graza EVOO + High-dose Vitamin D3/K2 (The "Seattle Patch" for 47°N latitude).
-5.  **Flavor Engine:** A dry-rub matrix of Szechuan peppercorn, chili, cumin, and mushroom powder. Zero sugar, zero seed oils, 100% Umami.
+5.  **Flavor Engine:** A dry-rub matrix of Szechuan peppercorn, chili, cumin, and mushroom powder. 0 sugar, 0 seed oils, 0 sodium, 100% Umami.
 
 **The Workflow:**
-- **Sunday:** Batch cook carbs in a Zojirushi IH cooker. Steam eggs. (60 mins total, mostly passive).
-- **Daily:** Microwave base + veg (3 mins) -> Add protein -> Shake dry spices -> Drizzle EVOO. 
+- **Sunday:** Batch cook carbs in a Zojirushi IH cooker. Steam eggs / Bake chicken (60 mins total, mostly passive).
+- **Daily:** Microwave base + veg (5-7 mins) -> Add protein -> Shake dry spices -> Drizzle EVOO. 
 
 **ROI:** 
 Stable energy levels, zero decision fatigue, and saving ~$1,200/mo compared to Seattle takeout. 
