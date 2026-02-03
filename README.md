@@ -1,6 +1,8 @@
 # The Seattle Diet
 The Seattle Diet - 99th Percentile Health, &lt;$250/Month, &lt;10 Mins/Day Prep
 
+*("The Seattle Diet" - Name Inspired by "The Mediterranean Diet")*
+
 
 I'm a ~30M software engineer living in Seattle. Like many of you, I'm busy, kind of lazy when it comes to cooking, and living in a high-cost city. I was tired of spending a fortune on mediocre takeout that made me feel sluggish.
 
@@ -36,7 +38,7 @@ Detailed Breakdown
 
 ### **THE SEATTLE DIET**
 
-*(Inspired by "The Mediterranean Diet")*
+*(Name Inspired by "The Mediterranean Diet")*
 
 ***An Automated Nutrition Architecture Based on Pareto Optimality***
 
@@ -295,7 +297,7 @@ Based on a six-dimensional flavor model of "Spicy-Numbing-Aromatic-Savory-Pungen
 
 2.  **Protein Prep (20 mins active time):**
     - Steam 8-10 eggs in the Dash egg cooker (hard-boiled mode, 16 minutes), peel, and refrigerate.
-    - OR: Batch-roast chicken thighs in the oven (if needed).
+    - OR: Batch-roast chicken thighs in the oven.
 
 ### 5.2 Daily Execution (Workdays, <10 minutes)
 - **Breakfast/Meal-to-go:**
